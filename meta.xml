@@ -1,0 +1,28 @@
+<meta>
+    <info author='Squash Codes' version='1.0' name='sqh_perfomance' description='Performance' />
+    <min_mta_version client="1.3.2" server="1.3.0-9.04570"/> 
+    <oop>true</oop>
+    
+    <!-- Configuration -->
+    <script src="config/config.lua" type="shared" cache="false" />
+
+    <!-- Scripts -->
+    <script src="library/shared/superclass.lua" type="shared" cache="false"  />
+    <script src="library/shared/utils.lua" type="shared" cache="false"  />
+
+    <script src="library/client/main.lua" type="client" cache="false"/>
+    <script src="library/client/utils.lua" type="client" cache="false"  />
+    
+    <!-- Assets - Images -->
+
+    <!-- Assets - Fonts -->
+
+    <file src="assets/fonts/os-regular.ttf" />
+    <file src="assets/fonts/os-semibold.ttf" />
+    <file src="assets/fonts/os-medium.ttf" />
+
+    <!-- Assets - Sounds -->
+
+    <!-- Assets - Others -->
+
+</meta>
